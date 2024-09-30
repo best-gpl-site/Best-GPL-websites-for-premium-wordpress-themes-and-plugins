@@ -1,4 +1,4 @@
-# Best GPL Sites for WordPress Themes and Plugins
+# Best GPL Sites for WordPress Themes and Plugins 2024
 
 Whether you are a blogger, a coder, or a business man or woman, you must have come across the necessity for installing premium wordpress themes and plugins. But what if one could get these resources legally at a fraction of the total cost it was allocated? GPL (General Public License) is the solution to that problem. The term GPL license means that the themes as well as the plugins may be redistributed, modified and reused without any limitation.
 
